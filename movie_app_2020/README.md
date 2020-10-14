@@ -2,6 +2,11 @@
 # Movie_App_2020
 
 React Js FundMentals Course 2020
+
+## 10/07
+prop-types로 rating 매기기
+상태 관리 함수(setstate) 이용법
+
 ## 0925
 1. 효율적으로 컴포넌트를 출력하는 방법(배열을 통해 map 함수를 사용해서 props에 넘겨준다)
 2. 이미지 넣기(src에 image 폴더를 생성하고 삽입하고 싶은 이미지를 폴더에 저장한 후 앞서 말한거처럼 props에 넘겨주는 식으로 한다.) ,import로 이미지를 가져오는 법과 require로 가져오는 법
